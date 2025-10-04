@@ -1,7 +1,3 @@
-# app.py
-# Weather Odds (NASA POWER) — Streamlit + matplotlib
-# wymagania: pip install streamlit requests pandas numpy geopy matplotlib
-
 import streamlit as st
 import requests
 import pandas as pd
